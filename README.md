@@ -58,8 +58,10 @@ wuzzuf-scraper/
 ├── scraper.py
 ├── README.md
 ├── requirements.txt
-└── data/
-    └── jobs.xlsx
+├── data/
+|   └── jobs.xlsx
+├── assets
+    └──Preview.png
 ```
 
 ---
@@ -92,3 +94,8 @@ Topics explored during development:
 ## License
 
 This project is intended for educational purposes.
+
+
+## Preview
+
+![Preview](assets/Preview.png)
