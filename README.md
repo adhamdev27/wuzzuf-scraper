@@ -55,7 +55,7 @@ The project automatically retrieves job summaries, fetches detailed information 
 ```
 wuzzuf-scraper/
 │
-├── scraper.py
+├── wuzzuf_scraper.ipynb
 ├── README.md
 ├── requirements.txt
 ├── data/
